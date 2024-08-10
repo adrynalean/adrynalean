@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋...... Human?</h1>
-<h3 align="center">A passionate full-stack developer with keen interest in Machine Learning</h3>
+<h3 align="center">I'm on a Full-stack, grooving to Machine Learning magic!</h3>
 
 <div style="max-width: 900px; margin: 0 auto;">
 
