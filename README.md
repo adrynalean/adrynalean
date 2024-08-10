@@ -105,8 +105,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrynalean&show_icons=true&locale=en&layout=compact" alt="adrynalean" /></p>
+<h2 align="left"> Stats </h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrynalean&show_icons=true&locale=en" alt="adrynalean" /></p>
+<br>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adrynalean&theme=react&hide_border=false&show_icons=true" alt="adrynalean" width="500" height="auto"/> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrynalean&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact&show_icons=true" alt="adrynalean" width="300" />
 
 </div>
