@@ -1,11 +1,13 @@
 <h1 align="center">Hello 👋, I'm Sashit</h1>
 <h3 align="center">A passionate full-stack developer with keen interest in Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrynalean&label=Profile%20views&color=0e75b6&style=flat" alt="adrynalean" /> </p>
+<div style="max-width: 900px; margin: 0 auto;">
 
 <p align="center">
-  <img alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="956" height="364" />
+  <img alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrynalean&label=Profile%20views&color=0e75b6&style=flat" alt="adrynalean" /> </p>
 
 - 🔭 I’m currently working on [MyLLM](https://github.com/adrynalean/MyLLM)
 
@@ -106,3 +108,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrynalean&show_icons=true&locale=en&layout=compact" alt="adrynalean" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrynalean&show_icons=true&locale=en" alt="adrynalean" /></p>
+
+</div>
