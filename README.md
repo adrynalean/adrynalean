@@ -4,8 +4,9 @@
 <div style="max-width: 900px; margin: 0 auto;">
 
 <p align="center">
-  <img alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+  <img alt="GIF" src="https://user-images.githubusercontent.com/62772038/163299412-c1144211-a99a-40e9-8630-6d1d256fe156.gif" width="956" height="364" />
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrynalean&label=Profile%20views&color=0e75b6&style=flat" alt="adrynalean" /> </p>
 
