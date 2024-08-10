@@ -1,21 +1,28 @@
 <h1 align="center">Hello 👋, I'm Sashit</h1>
-<h3 align="center">A passionate full-stack developer with a keen interest in Machine Learning</h3>
-
-<p align="center">
-  <img alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" />
-</p>
-
+<h3 align="center">A passionate full-stack developer with keen interest in Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrynalean&label=Profile%20views&color=0e75b6&style=flat" alt="adrynalean" /> </p>
 
+<p align="center">
+  <img alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="956" height="364" />
+</p>
+
 - 🔭 I’m currently working on [MyLLM](https://github.com/adrynalean/MyLLM)
-- 🌱 I’m currently learning **Django, Flask**
+
+- 🌱 I’m currently learning **Django, Flask,**
+
 - 👯 I’m looking to collaborate on [FarmBuddy](https://github.com/adrynalean/FarmBuddy)
+
 - 🤝 I’m looking for help with [SoccerSense](https://github.com/adrynalean/SoccerSense)
+
 - 👨‍💻 My showcase portfolio [sashitvijay.com](https://sashitvijay.com)
-- 📝 I often write articles on [IHoik Blog](https://ihoik.com/blog/)
+
+- 📝 I often write articles on [https://ihoik.com/blog/](https://ihoik.com/blog/)
+
 - 💬 Ask me about **Pytorch, React**
+
 - 📫 How to reach me **sashitvijay@gmail.com**
+
 - ⚡ Fun fact **I love making music**
 
 <h3 align="left">Connect with me:</h3>
@@ -25,10 +32,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
+  </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a> 
@@ -94,7 +101,8 @@
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
 </p>
 
-<p><img align="left" src="https://
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrynalean&show_icons=true&locale=en&layout=compact" alt="adrynalean" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrynalean&show_icons=true&locale=en" alt="adrynalean" /></p>
