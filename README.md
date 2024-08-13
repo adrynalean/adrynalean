@@ -10,6 +10,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrynalean&label=Profile%20views&color=0e75b6&style=flat" alt="adrynalean" /> </p>
 
+- 👨‍💻 My showcase portfolio [sashitvijay.com](https://sashitvijay.com)
+
 - 🔭 I’m currently working on [MyLLM](https://github.com/adrynalean/MyLLM)
 
 - 🌱 I’m currently learning **Django, Flask,**
@@ -17,8 +19,6 @@
 - 👯 I’m looking to collaborate on [FarmBuddy](https://github.com/adrynalean/FarmBuddy)
 
 - 🤝 I’m looking for help with [SoccerSense](https://github.com/adrynalean/SoccerSense)
-
-- 👨‍💻 My showcase portfolio [sashitvijay.com](https://sashitvijay.com)
 
 - 📝 I often write articles on [https://ihoik.com/blog/](https://ihoik.com/blog/)
 
