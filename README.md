@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋...... Human?</h1>
+<h1 align="center">Hello  👋...... Human?</h1>
 <h3 align="center">Computer Science student with a 4.0 GPA and experience in SWE, ML, and computer vision. Skilled in leading projects, optimizing processes, and mentoring. Seeking growth in cutting-edge tech roles.</h3>
 
 <div style="max-width: 900px; margin: 0 auto;">
