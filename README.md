@@ -38,7 +38,7 @@ Open to roles in full-stack engineering, ML systems, and applied AI.
 
 | &nbsp; | project | what it does | stack |
 |:---:|---------|-------------|-------|
-| 01 | **[MyLLM](https://github.com/adrynalean/MyLLM)** | 54M-parameter GPT decoder built from scratch — trained on 50M tokens of OpenWebText with no pretrained weights. Flash Attention, cosine LR with warmup, AdamW, served via FastAPI | `PyTorch` `Flash Attention` `FastAPI` |
+| 01 | **[CorpusForge](https://github.com/adrynalean/CorpusForge)** | 54M-parameter GPT decoder built from scratch — trained on 50M tokens of OpenWebText with no pretrained weights. Flash Attention, cosine LR with warmup, AdamW, served via FastAPI | `PyTorch` `Flash Attention` `FastAPI` |
 | 02 | **[Onsight](https://github.com/adrynalean/Onsight)** | End-to-end NLP system over 1,000+ scraped wiki pages — zero-shot theme classification, NER character network extraction, fine-tuned HuggingFace classifier, all surfaced in a Gradio dashboard | `HuggingFace` `SpaCy` `Scrapy` `Gradio` |
 | 03 | **[Flock](https://github.com/adrynalean/Flock)** | Full-stack ChatGPT-style chatbot with live OpenAI API integration, persistent session handling, and a production-grade UI — deployed on AWS | `React` `Node.js` `TypeScript` `AWS` |
 | 04 | **[SoccerSense](https://github.com/adrynalean/SoccerSense)** | Computer vision pipeline achieving 82% accuracy on real-time player and team stat generation — YOLOv8 tracking, KMeans segmentation, perspective transforms | `YOLOv8` `OpenCV` `PyTorch` |
