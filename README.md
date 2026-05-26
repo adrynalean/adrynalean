@@ -10,7 +10,7 @@
 
 **Full-stack · Machine learning · Computer vision**
 
-CS graduate &nbsp;·&nbsp; Summa Cum Laude &nbsp;·&nbsp; 4.0 GPA &nbsp;·&nbsp; IEEE Scholar
+Moeur Award &nbsp;·&nbsp; top 0.5% of graduating class &nbsp;·&nbsp; IEEE Scholar
 
 <br>
 
@@ -26,9 +26,11 @@ CS graduate &nbsp;·&nbsp; Summa Cum Laude &nbsp;·&nbsp; 4.0 GPA &nbsp;·&nbsp;
 
 ### 言 &nbsp; about
 
-I build systems that are useful without being noisy — full-stack products, ML pipelines, and computer vision tools with a focus on speed, clarity, and interfaces calm enough to trust.
+I build systems that are useful without being noisy — production APIs, ML pipelines, and computer vision tools with a focus on speed, clarity, and interfaces calm enough to trust.
 
-Currently open to roles in full-stack engineering, ML systems, and applied AI.
+Recent work spans a co-op building Redis-backed API platforms at Bytewerx, research on LLM-powered robotic navigation at ASU's LLEAS lab, and independent projects across NLP, computer vision, and full-stack deployment.
+
+Open to roles in full-stack engineering, ML systems, and applied AI.
 
 ---
 
@@ -37,15 +39,16 @@ Currently open to roles in full-stack engineering, ML systems, and applied AI.
 | &nbsp; | project | what it does | stack |
 |:---:|---------|-------------|-------|
 | 01 | **[MyLLM](https://github.com/adrynalean/MyLLM)** | 54M-parameter GPT decoder built from scratch — trained on 50M tokens of OpenWebText with no pretrained weights. Flash Attention, cosine LR with warmup, AdamW, served via FastAPI | `PyTorch` `Flash Attention` `FastAPI` |
-| 02 | **[Onsight](https://github.com/adrynalean/Onsight)** | Five-module NLP pipeline over 395 episodes — NER, character co-occurrence graph, DeBERTa ability classifier, zero-shot theme analysis, LoRA-tuned Llama 3.1-8B chatbot in a single Gradio dashboard | `Llama 3.1` `DeBERTa` `SpaCy` `Gradio` |
-| 03 | **[SoccerSense](https://github.com/adrynalean/SoccerSense)** | Computer vision pipeline tracking players and ball from Bundesliga footage — YOLOv8 detection, KMeans team segmentation, optical-flow camera compensation, real-world speed and distance output | `YOLOv8` `OpenCV` `KMeans` |
-| 04 | **[SyncLink](https://github.com/adrynalean/SyncLink)** | Distributed NFS in C supporting 50 concurrent clients across a three-tier architecture — Network Manager, Storage Servers, binary 9-byte protocol, full CRUD and cross-server copy | `C` `POSIX Sockets` |
+| 02 | **[Onsight](https://github.com/adrynalean/Onsight)** | End-to-end NLP system over 1,000+ scraped wiki pages — zero-shot theme classification, NER character network extraction, fine-tuned HuggingFace classifier, all surfaced in a Gradio dashboard | `HuggingFace` `SpaCy` `Scrapy` `Gradio` |
+| 03 | **[Flock](https://github.com/adrynalean/Flock)** | Full-stack ChatGPT-style chatbot with live OpenAI API integration, persistent session handling, and a production-grade UI — deployed on AWS | `React` `Node.js` `TypeScript` `AWS` |
+| 04 | **[SoccerSense](https://github.com/adrynalean/SoccerSense)** | Computer vision pipeline achieving 82% accuracy on real-time player and team stat generation — YOLOv8 tracking, KMeans segmentation, perspective transforms | `YOLOv8` `OpenCV` `PyTorch` |
+| 05 | **[SyncLink](https://github.com/adrynalean/SyncLink)** | Distributed NFS in C supporting 50 concurrent clients across a three-tier architecture — binary 9-byte protocol, full CRUD, cross-server copy | `C` `POSIX Sockets` |
 
 ---
 
 ### 語 &nbsp; tools
 
-`Python` &nbsp; `PyTorch` &nbsp; `C` &nbsp; `C++` &nbsp; `Java` &nbsp; `React` &nbsp; `Node.js` &nbsp; `Django` &nbsp; `Flask` &nbsp; `OpenCV` &nbsp; `MongoDB` &nbsp; `MySQL` &nbsp; `NumPy` &nbsp; `Pandas` &nbsp; `scikit-learn` &nbsp; `MATLAB`
+`Python` &nbsp; `TypeScript` &nbsp; `C` &nbsp; `C++` &nbsp; `Java` &nbsp; `React` &nbsp; `Node.js` &nbsp; `Angular` &nbsp; `Django` &nbsp; `Flask` &nbsp; `PyTorch` &nbsp; `OpenCV` &nbsp; `HuggingFace` &nbsp; `Scrapy` &nbsp; `AWS` &nbsp; `Docker` &nbsp; `Redis` &nbsp; `MongoDB` &nbsp; `PostgreSQL` &nbsp; `NumPy` &nbsp; `Pandas`
 
 ---
 
