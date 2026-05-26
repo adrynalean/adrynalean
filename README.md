@@ -10,7 +10,7 @@
 
 **Full-stack · Machine learning · Computer vision**
 
-CS graduate &nbsp;·&nbsp; Summa Cum Laude &nbsp;·&nbsp; Arizona State University
+CS graduate &nbsp;·&nbsp; Summa Cum Laude &nbsp;·&nbsp; 4.0 GPA &nbsp;·&nbsp; IEEE Scholar
 
 <br>
 
@@ -54,8 +54,6 @@ Currently open to roles in full-stack engineering, ML systems, and applied AI.
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrynalean&hide_border=true&background=140b12&ring=f3a7bc&fire=f4c46f&currStreakLabel=f3a7bc&sideLabels=d3b7aa&currStreakNum=fff4e8&sideNums=fff4e8&dates=d3b7aa" width="480" alt="streak" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrynalean&layout=compact&langs_count=6&hide_border=true&bg_color=140b12&title_color=f3a7bc&text_color=fff4e8" width="280" alt="languages" />
 
 </div>
 
