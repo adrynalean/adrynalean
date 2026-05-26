@@ -10,7 +10,7 @@
 
 **Full-stack · Machine learning · Computer vision**
 
-Moeur Award &nbsp;·&nbsp; top 0.5% of graduating class &nbsp;·&nbsp; IEEE Scholar
+Moeur Award (top 1%) &nbsp;·&nbsp; IEEE Scholar
 
 <br>
 
