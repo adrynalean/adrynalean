@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="./try1.gif" width="800" alt="banner" />
+<img src="./try2.gif" width="800" alt="banner" />
 
 <br><br>
 
