@@ -2,8 +2,7 @@
 
 <br>
 
-<!-- ░░ BANNER GIF — swap this src for your chosen GIF URL once you have it ░░ -->
-<img src="https://user-images.githubusercontent.com/62772038/163299412-c1144211-a99a-40e9-8630-6d1d256fe156.gif" width="800" alt="banner" />
+<img src="./try1.gif" width="800" alt="banner" />
 
 <br><br>
 
@@ -56,7 +55,7 @@ Currently open to roles in full-stack engineering, ML systems, and applied AI.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrynalean&hide_border=true&background=140b12&ring=f3a7bc&fire=f4c46f&currStreakLabel=f3a7bc&sideLabels=d3b7aa&currStreakNum=fff4e8&sideNums=fff4e8&dates=d3b7aa" width="480" alt="streak" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrynalean&hide_border=true&bg_color=140b12&title_color=f3a7bc&text_color=fff4e8&icon_color=f4c46f&layout=compact&langs_count=6" width="280" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrynalean&layout=compact&langs_count=6&hide_border=true&bg_color=140b12&title_color=f3a7bc&text_color=fff4e8" width="280" alt="languages" />
 
 </div>
 
