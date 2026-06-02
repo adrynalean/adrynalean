@@ -60,7 +60,7 @@ Open to roles in full-stack engineering, ML systems, and applied AI.
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adrynalean&bg_color=140b12&color=d3b7aa&line=f3a7bc&point=f4c46f&area=true&area_color=f3a7bc&hide_border=true&radius=8&custom_title=contribution%20signal" width="720" alt="contribution activity graph" />
+<img src="./profile-contribution-mix.svg" width="720" alt="public contribution mix graph" />
 
 </div>
 
