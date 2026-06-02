@@ -60,7 +60,7 @@ Open to roles in full-stack engineering, ML systems, and applied AI.
 
 <br><br>
 
-<img src="./profile-contribution-mix.svg" width="720" alt="public contribution mix graph" />
+<img src="./profile-contribution-balance.svg" width="720" alt="public contribution mix graph" />
 
 </div>
 
