@@ -58,6 +58,10 @@ Open to roles in full-stack engineering, ML systems, and applied AI.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrynalean&hide_border=true&background=140b12&ring=f3a7bc&fire=f4c46f&currStreakLabel=f3a7bc&sideLabels=d3b7aa&currStreakNum=fff4e8&sideNums=fff4e8&dates=d3b7aa" width="480" alt="streak" />
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adrynalean&bg_color=140b12&color=d3b7aa&line=f3a7bc&point=f4c46f&area=true&area_color=f3a7bc&hide_border=true&radius=8&custom_title=contribution%20signal" width="720" alt="contribution activity graph" />
+
 </div>
 
 <br>
